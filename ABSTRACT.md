@@ -8,3 +8,5 @@ Despite the fact that the agricultural sector is a national economic development
 Note, similar **The KaraAgroAI Cocoa Dataset** datasets are also available on the [DatasetNinja.com](https://datasetninja.com/):
 
 - [The KaraAgroAI Cocoa Dataset](https://datasetninja.com/kara-agro-ai-cocoa)
+- [Makerere University Cassava Image Dataset](https://datasetninja.com/makerere-university-cassava)
+- [Makerere University Beans Image Dataset](https://datasetninja.com/makerere-university-beans)
