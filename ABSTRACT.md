@@ -1,5 +1,5 @@
 
-The **The KaraAgro AI Maize Dataset** was created by authors to provide an open and accessible maize dataset with well-labeled, sufficiently curated, and prepared maize crop imagery that will be used by data scientists, researchers, the wider machine learning community, and social entrepreneurs within Sub-saharan Africa and worldwide for various machine learning experiments so as to build solutions towards in-field maize crop disease diagnosis and spatial analysis.
+The **The KaraAgro AI Maize Dataset** was created by authors to provide an open and accessible maize dataset with well-labeled, sufficiently curated, and prepared maize crop imagery that will be used by data scientists, researchers, the wider machine learning community, and social entrepreneurs within Sub-Saharan Africa and worldwide for various machine learning experiments so as to build solutions towards in-field maize crop disease diagnosis and spatial analysis.
 
 ## Motivation
 
