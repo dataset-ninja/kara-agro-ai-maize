@@ -10,3 +10,4 @@ Note, similar **The KaraAgroAI Cocoa Dataset** datasets are also available on th
 - [The KaraAgroAI Cocoa Dataset](https://datasetninja.com/kara-agro-ai-cocoa)
 - [Makerere University Cassava Image Dataset](https://datasetninja.com/makerere-university-cassava)
 - [Makerere University Beans Image Dataset](https://datasetninja.com/makerere-university-beans)
+- [Makerere University Maize Image Dataset](https://datasetninja.com/makerere-university-maize)
