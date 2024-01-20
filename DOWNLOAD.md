@@ -1,6 +1,6 @@
 Dataset **KaraAgro AI Maize** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/5/X/uM/3XfnEEs09EZ0w3RpQwxuhbfbzYotemckxdmV1a66jFDkuSb4gmjPEG9GJSpSoBKLPo4yVTfK1Ja4wS226xrcOoW8JUxTr5Jrc6YOPqu3I1xYHVggX8y5K7knGJeO.tar)
+ [Download](https://www.dropbox.com/scl/fi/k8ivvt8juo28xkhkgo1j1/karaagro-ai-maize-DatasetNinja.tar?rlkey=k5o5psn7e3e6pzuup57nrlnwu&dl=1)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
